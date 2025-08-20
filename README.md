@@ -9,6 +9,7 @@
 
 - Languages: **Python**, **Java**, **C**
 - Web: **HTML**, **CSS**, **JavaScript**
+- Database: **SQL**
 - Interests: Artificial Intelligence, Machine Learning, Software Development
 
 ---
